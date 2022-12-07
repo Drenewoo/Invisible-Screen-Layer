@@ -1,4 +1,4 @@
-# InvisibleScreenLayer
+# Invisible Screen Layer
 READ BEFORE YOU RUN THIS!
 
 You can exit this in 2 ways:
